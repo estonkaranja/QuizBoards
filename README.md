@@ -23,22 +23,22 @@ This are also practial questions that need a user to answer correctly without an
 
 ## Setup/Information Required:
 
--Canditates conceentration.
--Candidates Questions.
--Candidates Answers.
+*Canditates conceentration.
+*Candidates Questions.
+*Candidates Answers.
 
 ---
 
 ## Getting Started:
 
--git clone repo on https:estonkaranja/github.com/Quizboards/
--git push on https:yourRepo/github.com/yourepo/
+*git clone repo on https:estonkaranja/github.com/Quizboards/
+*git push on https:yourRepo/github.com/yourepo/
 
 ---
 
 ## Technologies:
 
--HTML
+*HTML
 -JAVASCRIPTS
 -BOOTSTRAP
 -JUMBOTRONS
