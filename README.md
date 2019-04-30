@@ -31,8 +31,9 @@ This are also practial questions that need a user to answer correctly without an
 
 ## Getting Started:
 
-*git clone repo on https:estonkaranja/github.com/Quizboards/
-*git push on https:yourRepo/github.com/yourepo/
+*git clone repo on<a href="https:estonkaranja/github.com/Quizboards/>.
+
+*git push on "https:yourRepo/github.com/yourepo/"
 
 ---
 
@@ -55,6 +56,6 @@ This repo has been contributed by only 2 people that is me and the github.com ac
 
 ## Copyrights:
 
-MoringaSchool **MIT LICENSE** &&Copy 2019
+MoringaSchool **MIT LICENSE** 2019
 
 ---
