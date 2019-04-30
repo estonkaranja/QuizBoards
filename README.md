@@ -24,27 +24,34 @@ This are also practial questions that need a user to answer correctly without an
 ## Setup/Information Required:
 
 *Canditates conceentration.
+
 *Candidates Questions.
+
 *Candidates Answers.
 
 ---
 
 ## Getting Started:
 
-*git clone repo on<a href="https:estonkaranja/github.com/Quizboards/>.
+*git clone repo on <a href="https:estonkaranja/github.com/Quizboards/>.
 
-*git push on "https:yourRepo/github.com/yourepo/"
+*git push on <a href="https:yourRepo/github.com/yourepo/">
 
 ---
 
 ## Technologies:
 
 *HTML
--JAVASCRIPTS
--BOOTSTRAP
--JUMBOTRONS
--STYLES
--CSS
+
+*JAVASCRIPTS
+
+*BOOTSTRAP
+
+*JUMBOTRONS
+
+*STYLES
+
+*CSS
 
 ---
 
