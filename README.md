@@ -33,9 +33,9 @@ This are also practial questions that need a user to answer correctly without an
 
 ## Getting Started:
 
-*git clone repo on <a href="https:estonkaranja/github.com/Quizboards/>.
+*git clone repo on "https:estonkaranja/github.com/Quizboards/"
 
-*git push on <a href="https:yourRepo/github.com/yourepo/">
+*git push on "https:yourRepo/github.com/yourepo"
 
 ---
 
