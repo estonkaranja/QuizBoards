@@ -1,0 +1,148 @@
+body {
+  font-family: sans-serif;
+  background-image: url("https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto/gigs/1799980/original/javascript/create-code-or-fix-javascript-jquery-or-php-scripts.jpg");
+}
+
+.quizContainer {
+  height: 300px;
+  width: 600px;
+  position: absolute;
+  top: 25%;
+  bottom: 50%;
+  right: 30%;
+  left: 30%;
+  transform: rotateX(-50%) rotateY(-50%);
+  background: rgba(235, 4, 4, 0.918);
+  background-image: url("https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto/gigs/125600009/original/dc9695004c904dc3d65a57240347d9bb2d7e5600/do-any-html-css-javascript-for-responsive-webpages.png");
+  padding: 20px;
+  border: 1px solid #000000;
+  border-radius: 20px;
+  box-shadow: 0 0 8px 3px #fff;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 36px;
+  text-transform: uppercase;
+  color: orangered;
+}
+
+.paragraph {
+  display: none;
+  font-size: 20px;
+  text-align: center;
+}
+
+#hide {
+  text-align: center;
+  border-radius: 20px;
+}
+
+#wrapper {
+  background-color: rgba(0, 15, 0);
+  text-decoration: none;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-left: 45%;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+}
+
+#wrapper:hover {
+  background: #000000;
+  color: #fff;
+}
+
+#wrapper-submitted {
+  background-color: green;
+  text-decoration: none;
+  border-radius: 30px;
+  cursor: pointer;
+  margin-left: 30%;
+  padding: 5px;
+  text-align: center;
+  color: #fff;
+}
+
+#wrapper-submitted:hover {
+  background: #000000;
+
+}
+
+.jumbotron {
+  text-align: center;
+  color: black;
+}
+  
+.panel-heading {
+  background-color: black;
+  color: black;
+}
+
+.panel-body {
+  text-align: center;
+  background-color: rgb(9, 238, 188);
+}
+
+.darkred {
+  background-color: #7F0000;
+  color: whitesmoke;
+  text-align: left;
+  background-image: url("https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto/gigs/123999243/original/c1de53e26a345d18953ba0edd186ff5ad6bea923/do-a-javascript-introduction-video.jpg");
+}
+
+#after_submit {
+  visibility: hidden;
+}
+
+#message {
+  font-size: 20px;
+  text-align: center;
+}
+
+#number_correct {
+  font-size: 20px;
+  text-align: center;
+}
+
+.darkness {
+  background-color: #000000;
+  color: black;
+}
+
+@media only screen and (max-width: 768px) {
+  .quizContainer {
+    height: 500px;
+    width: 300px;
+    position: relative;
+    top: 5%;
+    bottom: 5%;
+    right: 5%;
+    left: 5%;
+    transform: rotateX(-50%) rotateY(-50%);
+    background: rgba(6, 233, 36, 0.685);
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    box-shadow: 0 0 8px 3px #fff;
+    text-align: center;
+  }
+
+  #wrapper {
+    background-color: red;
+    text-decoration: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 5%;
+    padding: 5px;
+    text-align: center;
+  }
+
+  #wrapper:hover {
+    background: #000000;
+    color: red;
+  }
+}
