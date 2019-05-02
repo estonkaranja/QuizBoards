@@ -63,6 +63,6 @@ This repo has been contributed by only 2 people that is me and the github.com ac
 
 ## Copyrights:
 
-MoringaSchool **MIT LICENSE** 2019.
+MoringaSchool **MIT LICENSE** 2019
 
 ---
